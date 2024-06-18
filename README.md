@@ -14,10 +14,10 @@ _Use GitHub Actions to publish your project to a Docker image._
 </header>
 
 <!--
-  <<< Author notes: Step 4 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
+
 
 ## Step 4: Pull your image
 
